@@ -2,6 +2,8 @@
 
 O seguinte projeto, desenvolvido para a disciplina de Eletrônica para computação (SSC180) disponibilizada no ICMC/USP tem como objetivo aplicar os conhecimentos adquiridos em aula para dimensionarmos, projetarmos e montarmos uma fonte de tensão ajustável entre 3V e 12V e com corrente de 100mA.
 
+-----------------------------------------
+
 **Funcionamento:**
 
 O objetivo geral de uma fonte de tensão é realizar a conversão de uma tensão, geralmente 110V ou 220V com corrente alternada (CA), em uma tensão com corrente contínua (CC), para que seja possível alimentar equipamentos que operam com CC.
@@ -12,7 +14,7 @@ O objetivo geral de uma fonte de tensão é realizar a conversão de uma tensão
 - Filtro: Filtra a tensão transformando-a em CC.
 - Regulador: Regula a saída para obtermos uma tensão contínua e ajustável.
 
-
+----------------------------------------
 
 **Passo a passo:**
 
@@ -24,6 +26,7 @@ O próximo passo é a instalação de um filtro de onda capaz de “corrigir” 
 
 O último passo é a instalação de um retificador para fazer com que o sinal de saída seja o mais linear o possível. Em fontes mais simples, esse retificador é constituído por um diodo zener polarizado inversamente e um resistor. O diodo zener é um dispositivo com propriedades especiais, como uma tensão de ruptura e uma potência máxima, ambos especificados no datasheet do componente (algo parecido com um manual de especificações). Como no projeto desejamos uma tensão ajustável entre 3V e 12V, utilizamos também um potenciômetro capaz de realizar essa operação.
 
+------------------------------------
 
 **Cálculos:**
 
@@ -77,6 +80,8 @@ Com isso escolhemos um resistor de valor comercial de 1kΩ
 
 Com isso, descobrimos que a capacitância mínima deve ser de 462uF, mas escolhemos um capacitor de 680uF por ser de um valor comercial mais comum e facilmente encontrado em lojas de eletrônicos.
 
+-----------------------------------------
+
 **Tabela de referência dos componentes utilizados no projeto**
 
 
@@ -93,11 +98,13 @@ Com isso, descobrimos que a capacitância mínima deve ser de 462uF, mas escolhe
 |Transformador 12/24V|R$ 34,99|1|
 |Transistor BC548|R$ 0,50|1|
 
+-----------------------------
 
 **Link para o vídeo explicativo:**
 
---------
 
+
+----------------------------
 
 **Circuito desenvolvido no software EAGLE**
 
@@ -106,11 +113,13 @@ https://tinyurl.com/24ap4trr
 
 ![circuito_falstad](https://user-images.githubusercontent.com/102189064/176531771-5f13a306-8c09-452b-92c3-4120f58ff4b6.png)
 
+-----------------------------------
 
 **PCB do circuito desenvolvido no EAGLE**
 
 ![pcb_layout](https://user-images.githubusercontent.com/102189064/176524882-84bef9b6-0da2-4e9a-8237-c9da81837575.png)
 
+------------------------------------
 
 **Alunos envolvidos no projeto**
 
