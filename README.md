@@ -92,3 +92,31 @@ Com isso, descobrimos que a capacitância mínima deve ser de 462uF, mas escolhe
 |Resistor 2.2KΩ|R$ 0,07|2|
 |Transformador 12/24V|R$ 34,99|1|
 |Transistor BC548|R$ 0,50|1|
+
+
+**Link para o vídeo explicativo:**
+
+--------
+
+
+**Circuito desenvolvido no software EAGLE**
+
+https://tinyurl.com/24ap4trr
+
+
+![circuito_falstad](https://user-images.githubusercontent.com/102189064/176531771-5f13a306-8c09-452b-92c3-4120f58ff4b6.png)
+
+
+**PCB do circuito desenvolvido no EAGLE**
+
+![pcb_layout](https://user-images.githubusercontent.com/102189064/176524882-84bef9b6-0da2-4e9a-8237-c9da81837575.png)
+
+
+**Alunos envolvidos no projeto**
+
+- Gustavo Gabriel Ribeiro
+- Marina Souza Figueiredo
+- Pedro Henrique Gonçalves Bucke
+- Vicenzo D'Arezzo Zilio
+
+
