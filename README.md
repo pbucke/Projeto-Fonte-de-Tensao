@@ -18,11 +18,11 @@ O objetivo geral de uma fonte de tensão é realizar a conversão de uma tensão
 
 **Passo a passo:**
 
-O circuito se inicia com a entrada AC de 127V provenientes da rede elétrica (tomada) e é levado a um transformador capaz de reduzir a tensão para um valor mais baixo, que pode ser utilizado pelo restante do circuito.
+O circuito tem entrada AC de 127V provenientes da rede elétrica (tomada) que é levada a um transformador capaz de reduzir a tensão para um valor mais baixo, que pode ser utilizado pelo restante do circuito.
 
 O próximo passo é transformar essa corrente alternada em uma corrente contínua com uma senoide em semi ciclo positivo, isso é feito quando utilizamos uma ponte de diodos completa, que permite a passagem de corrente em apenas parte do ciclo.
 
-O próximo passo é a instalação de um filtro de onda capaz de “corrigir” a oscilação da tensão, impedindo que a tensão chegue a 0, ou seja, fazendo com que o sinal pulsante se aproxime de uma constante. Tal filtro é constituído por um capacitor que carrega durante o semi ciclo positivo e descarrega durante o semi ciclo negativo.
+O passo seguinte é a instalação de um filtro de onda capaz de “corrigir” a oscilação da tensão, impedindo que a tensão chegue a 0, ou seja, fazendo com que o sinal pulsante se aproxime de uma constante. Tal filtro é constituído por um capacitor que carrega durante o semi ciclo positivo e descarrega durante o semi ciclo negativo.
 
 O último passo é a instalação de um retificador para fazer com que o sinal de saída seja o mais linear o possível. Em fontes mais simples, esse retificador é constituído por um diodo zener polarizado inversamente e um resistor. O diodo zener é um dispositivo com propriedades especiais, como uma tensão de ruptura e uma potência máxima, ambos especificados no datasheet do componente (algo parecido com um manual de especificações). Como no projeto desejamos uma tensão ajustável entre 3V e 12V, utilizamos também um potenciômetro capaz de realizar essa operação.
 
