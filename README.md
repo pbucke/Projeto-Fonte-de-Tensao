@@ -108,7 +108,7 @@ Com isso, descobrimos que a capacitância mínima deve ser de 462uF, mas escolhe
 
 **Circuito desenvolvido no software EAGLE**
 
-https://tinyurl.com/24ap4trr
+https://tinyurl.com/2m9m5d2la
 
 
 ![circuito_falstad](https://user-images.githubusercontent.com/102189064/176531771-5f13a306-8c09-452b-92c3-4120f58ff4b6.png)
