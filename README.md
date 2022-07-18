@@ -100,7 +100,7 @@ Com isso, descobrimos que a capacitância mínima deve ser de 462uF, mas escolhe
 
 -----------------------------
 
-**Link para o vídeo explicativo:**
+**Link para o vídeo explicativo:** https://drive.google.com/file/d/1_NWhUf14gy4CsD5PvgrdcseWQrl45HKv/view?usp=sharing
 
 
 
