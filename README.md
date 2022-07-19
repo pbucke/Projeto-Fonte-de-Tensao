@@ -102,7 +102,14 @@ Com isso, descobrimos que a capacitância mínima deve ser de 462uF, mas escolhe
 
 **Link para o vídeo explicativo:** https://drive.google.com/file/d/1_NWhUf14gy4CsD5PvgrdcseWQrl45HKv/view?usp=sharing
 
+-----------------------------
 
+Fotos do circuito montado na protoboard:
+
+![fonte1](https://user-images.githubusercontent.com/102189064/179744289-993fc6e0-44e3-46cb-b0ba-502a91e8b328.jpeg)
+
+
+![fonte2](https://user-images.githubusercontent.com/102189064/179744343-f78191ef-5e3f-43db-8a3e-0897d5c7c14d.jpeg)
 
 ----------------------------
 
