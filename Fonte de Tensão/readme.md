@@ -113,7 +113,7 @@ Fotos do circuito montado na protoboard:
 
 ----------------------------
 
-**Circuito desenvolvido no software EAGLE**
+**Circuito desenvolvido no FALSTAD:**
 
 https://tinyurl.com/2m9m5d2la
 
@@ -122,7 +122,7 @@ https://tinyurl.com/2m9m5d2la
 
 -----------------------------------
 
-**PCB do circuito desenvolvido no EAGLE**
+**PCB do circuito desenvolvido no EAGLE:**
 
 ![pcb_layout](https://user-images.githubusercontent.com/102189064/176524882-84bef9b6-0da2-4e9a-8237-c9da81837575.png)
 
