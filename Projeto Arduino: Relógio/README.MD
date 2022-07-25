@@ -261,15 +261,18 @@ intuitiva. É necessária apenas a importação de uma biblioteca para que o LCD
 
 ![hora_serial](https://user-images.githubusercontent.com/102189064/180842151-5355b23c-d94d-446e-8c25-7b275ac9627c.png)
 
+É possível que os segundos se repetem algumas vezes no monitor serial, isso se deve ao fato da taixa de atualização dele ser inferior a um segundo, o que faz
+com que o mesmo segundo seja mostrado repetidas vezes.
+
 --------------------------------
 
-**Link para o vídeo explicativo do funncionamento do projeto:**
+**Link para o vídeo explicativo do funcionamento do projeto:**
 
 Link:
 
 --------------------------------
 
-**Link para o esquemático do circuito desenvolvido no software Tinkercad:**
+**Imagem esquemática do circuito desenvolvido no software Tinkercad:**
 
 Link:
 
