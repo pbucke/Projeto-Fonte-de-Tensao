@@ -274,7 +274,8 @@ Link:
 
 **Imagem esquemática do circuito desenvolvido no software Tinkercad:**
 
-Link:
+![tinkercad](https://user-images.githubusercontent.com/102189064/180890228-a39a396a-84e8-4573-9854-2d157853189a.png)
+
 
 --------------------------------
 
