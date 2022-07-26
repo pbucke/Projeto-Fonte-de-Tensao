@@ -257,7 +257,7 @@ intuitiva. É necessária apenas a importação de uma biblioteca para que o LCD
 
 --------------------------------
 
-**Imagem do monitor serial em exibindo data e hora em tempo real:**
+**Imagem do monitor serial exibindo data e hora em tempo real:**
 
 ![hora_serial](https://user-images.githubusercontent.com/102189064/180842151-5355b23c-d94d-446e-8c25-7b275ac9627c.png)
 
