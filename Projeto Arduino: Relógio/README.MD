@@ -268,7 +268,7 @@ com que o mesmo segundo seja mostrado repetidas vezes.
 
 **Link para o vídeo explicativo do funcionamento do projeto:**
 
-Link:
+Link: https://drive.google.com/file/d/1mVHziKJx87iIL46rB3RAoM040gECPLzu/view?usp=sharing
 
 --------------------------------
 
